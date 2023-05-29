@@ -1,12 +1,12 @@
 Hi there ! This is Shubham
 ===============================================================================================================================
 
-Platform Engineer & Developer
+Project Lead with experience of Platform Engineering + Development
 -----------------------------
 
-*   🌍  I'm based in Toronto, CA
+*   🌍  Based in Toronto, CA
 *   🖥️  See my portfolio at [shubh.site](http://shubh.site)
-*   ✉️  You can contact me at [shubhamyadav@duck.com](mailto:shubhamyadav@duck.com)
+*   ✉️  Contact me at [shubhamyadav@duck.com](mailto:shubhamyadav@duck.com)
 
 Skills 
 
