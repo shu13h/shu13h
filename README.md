@@ -1,7 +1,7 @@
 Hi there ! This is Shubham
 ===============================================================================================================================
 
-Project Lead with experience of Platform Engineering + Development
+Project Lead | Full Stack Developer | Platform Engineering
 -----------------------------
 
 *   🌍  Based in Toronto, CA
